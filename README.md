@@ -1,18 +1,10 @@
-# BLS
+# BDR
 
-> Bilibili Live Superviser
+> Bilibili 动态抽奖工具
 
-#### 更新日志
-- 2018年4月2日，上传第一个可用版本到github
-- 2018年2月17日14:41:55，提交第一个版本，完成了多账户登陆控制，弹幕服务器连接控制，基本流程控制
-- 技术栈: Nodejs / Electron / Vue / element.ui
+- 没有开通官方抽奖工具的同学可以使用该工具来抽奖
+- 预计7月1日完成第一个版本的设计，并投入使用 
 
-#### 安装文件下载(.exe文件)
-> 下载最新安装包即可使用
-- [Github-Releases](https://github.com/mscststs/BLS/releases)
-
-#### 功能简介
-- BLS功能简介: [查看 Wiki](https://github.com/mscststs/BLS/wiki) 
 
 
 #### Build Setup
